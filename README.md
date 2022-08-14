@@ -6,11 +6,8 @@
 <h1 align="center"><b>Introduction how to develop a generative adversarial network with deep convolutional networks for generating handwritten digits</b></h1>
 
 
-<a name="tongquan"></a>
-# ** Result of GAN model for generatinf handwritten digits using MNIST dataset** 
-## **1.1 MÔ TẢ BÀI TOÁN**
-* Ngữ cảnh ứng dụng:
-    * Trong những năm gần đây, diện tích trồng cây sầu riêng luôn được mở rộng từ đồng bằng sông Cửu Long đến tận miền Đông Tây Nguyên, nguyên do là cây mang lại hiệu quả kinh tế bởi năng suất cao, chất lượng ngon đáp ứng được yêu cầu của người tiêu dùng ngay cả trong nước và xuất khẩu.
+# **Result of GAN model for generating handwritten digits using MNIST dataset** 
+## **These are alphanumeric images generated from the GAN model over a number of epochs**
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/79462324/174416173-1fecf800-518c-4ad2-925f-1eeeb46df569.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%; height:50%;"/>
