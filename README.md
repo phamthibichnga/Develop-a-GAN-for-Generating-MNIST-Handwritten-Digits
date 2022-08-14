@@ -7,7 +7,7 @@
 
 
 <a name="tongquan"></a>
-# **1. TỔNG QUAN VỀ ĐỒ ÁN** 
+# ** Result of GAN model for generatinf handwritten digits using MNIST dataset** 
 ## **1.1 MÔ TẢ BÀI TOÁN**
 * Ngữ cảnh ứng dụng:
     * Trong những năm gần đây, diện tích trồng cây sầu riêng luôn được mở rộng từ đồng bằng sông Cửu Long đến tận miền Đông Tây Nguyên, nguyên do là cây mang lại hiệu quả kinh tế bởi năng suất cao, chất lượng ngon đáp ứng được yêu cầu của người tiêu dùng ngay cả trong nước và xuất khẩu.
