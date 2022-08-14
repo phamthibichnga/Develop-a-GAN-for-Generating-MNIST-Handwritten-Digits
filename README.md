@@ -9,9 +9,7 @@
 
 
 <a name="tongquan"></a>
-## **1. TỔNG QUAN VỀ ĐỒ ÁN** 
-
-
+## **Result of GAN model for generating handwritten digits using MNIST dataset** 
 
 **Result of GAN model for generating handwritten digits using MNIST dataset** 
 **These are alphanumeric images generated from the GAN model over a number of epochs**
