@@ -7,7 +7,7 @@
 <br>
 <br>
 
-###**Result of GAN model for generating handwritten digits using MNIST dataset** 
+**Result of GAN model for generating handwritten digits using MNIST dataset** 
 **These are alphanumeric images generated from the GAN model over a number of epochs**
 
 <p align="center">
