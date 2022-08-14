@@ -6,8 +6,8 @@
 <h1 align="center"><b>Introduction how to develop a generative adversarial network with deep convolutional networks for generating handwritten digits</b></h2>
 
 
-**Result of GAN model for generating handwritten digits using MNIST dataset** 
-## **These are alphanumeric images generated from the GAN model over a number of epochs**
+###**Result of GAN model for generating handwritten digits using MNIST dataset** 
+**These are alphanumeric images generated from the GAN model over a number of epochs**
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/79462324/174416173-1fecf800-518c-4ad2-925f-1eeeb46df569.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%; height:50%;"/>
