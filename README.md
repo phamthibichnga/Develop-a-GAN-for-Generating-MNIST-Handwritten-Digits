@@ -1,10 +1,10 @@
 
-
-
 <!-- Title -->
 <h1 align="center"><b> DEVELOP A GAN FOR GENERATING MNIST HANDWRITTEN DIGITS</b></h1>
 Introduction how to develop a generative adversarial network with deep convolutional networks for generating handwritten digits
-
+<br>
+<br>
+<br>
 
 ###**Result of GAN model for generating handwritten digits using MNIST dataset** 
 **These are alphanumeric images generated from the GAN model over a number of epochs**
