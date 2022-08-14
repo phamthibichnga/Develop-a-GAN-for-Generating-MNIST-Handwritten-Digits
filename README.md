@@ -60,7 +60,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/79462324/184544080-ff1cc86e-04de-4450-ac08-f08921d244ea.png" style="display: block;margin-left: auto;margin-right: auto;width: 50%; height:50%;"/>
+<img src="https://user-images.githubusercontent.com/79462324/184544561-fda7cf30-305f-4141-b5ad-6f77eb640b62.png" style="display: block;margin-left: auto;margin-right: auto;width: 50%; height:50%;"/>
 <br>
 <a style="text-align: center">Hình 3 : Plot of 100 GAN Generated MNIST Figures After 80 Epochs </a>
 </p>
