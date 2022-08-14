@@ -7,7 +7,7 @@
 :low_brightness: Result of GAN model for generating handwritten digits using MNIST dataset. These are alphanumeric images generated from the GAN model over a number of epochs
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/79462324/184543930-f75ce0e7-79e6-425d-9044-4b6f09658ed4.png" style="display: block;margin-left: auto;margin-right: auto;width: 100%; height:100%;"/>
+<img src="https://user-images.githubusercontent.com/79462324/184543930-f75ce0e7-79e6-425d-9044-4b6f09658ed4.png" style="display: block;margin-left: auto;margin-right: auto;width: 50%; height:50%;"/>
 <br>
 <a style="text-align: center">Hình 1 : Plot of the First 100 Handwritten Digits From the MNIST Dataset. </a>
 </p>
